@@ -1,0 +1,5 @@
+name: Feed-System
+author: LU
+version: 1.0.0
+api: 4.0.0
+main: feed\Main
